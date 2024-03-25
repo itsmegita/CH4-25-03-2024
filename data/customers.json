@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "65fda57449c5f6e30fff9ab8",
+      "name": "Erna Montoya",
+      "email": "ernamontoya@emergent.com",
+      "role": "user",
+      "active": false,
+      "photo": "user-1.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda574b03579c9dd5e6136",
+      "name": "Waters Garrison",
+      "email": "watersgarrison@emergent.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-1.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda5744eac0c03822dd73e",
+      "name": "Greta Greene",
+      "email": "gretagreene@emergent.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-4.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda574ccad31970c2c4d8d",
+      "name": "Debra Clemons",
+      "email": "debraclemons@emergent.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-4.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda5747fb3c183cb02fc97",
+      "name": "Candace Mullins",
+      "email": "candacemullins@emergent.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-3.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda57494b4304603d3df89",
+      "name": "Shanna West",
+      "email": "shannawest@emergent.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-4.jpg",
+      "password": ""
+    }
+  ]
